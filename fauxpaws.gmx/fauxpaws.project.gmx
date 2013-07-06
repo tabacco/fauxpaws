@@ -7,12 +7,14 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\spr_dog_placeholder</sprite>
+    <sprite>sprites\spr_molyneux_placeholder</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_ground</object>
     <object>objects\obj_dog</object>
+    <object>objects\obj_molyneux</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_street</room>
