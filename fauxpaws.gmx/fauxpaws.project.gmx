@@ -9,7 +9,9 @@
     <sprite>sprites\spr_dog_placeholder</sprite>
     <sprite>sprites\spr_molyneux_placeholder</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\bg_placeholder</background>
+  </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_ground</object>
