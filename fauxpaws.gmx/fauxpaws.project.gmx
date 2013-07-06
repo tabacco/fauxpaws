@@ -14,7 +14,6 @@
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\obj_ground</object>
     <object>objects\obj_dog</object>
     <object>objects\obj_molyneux</object>
   </objects>
