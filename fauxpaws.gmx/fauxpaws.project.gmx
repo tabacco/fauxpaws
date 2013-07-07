@@ -31,6 +31,7 @@
     </sprites>
     <sprites name="people">
       <sprite>sprites\spr_molyneux_placeholder</sprite>
+      <sprite>sprites\spr_people_pedestrian</sprite>
     </sprites>
     <sprites name="excreta ">
       <sprite>sprites\spr_fart_cloud</sprite>
@@ -54,6 +55,7 @@
   <paths name="paths"/>
   <scripts name="scripts">
     <script>scripts\scr_spawnfood.gml</script>
+    <script>scripts\scr_spawnpedestrians.gml</script>
     <script>scripts\scr_foodeat.gml</script>
     <script>scripts\scr_foodexcrete.gml</script>
   </scripts>
@@ -71,6 +73,7 @@
     <object>objects\obj_title</object>
     <object>objects\obj_musicmanager</object>
     <object>objects\obj_ui_icon</object>
+    <object>objects\obj_pedestrian</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_splash</room>
