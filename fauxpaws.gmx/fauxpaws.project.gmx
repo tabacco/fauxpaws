@@ -48,6 +48,11 @@
       <sprite>sprites\spr_icon_poop</sprite>
       <sprite>sprites\spr_icon_sniff</sprite>
     </sprites>
+    <sprites name="environment">
+      <sprite>sprites\spr_tree_trunk</sprite>
+      <sprite>sprites\spr_tree_top</sprite>
+      <sprite>sprites\spr_cloud</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_placeholder</background>
@@ -74,6 +79,9 @@
     <object>objects\obj_musicmanager</object>
     <object>objects\obj_ui_icon</object>
     <object>objects\obj_pedestrian</object>
+    <object>objects\obj_tree_trunk</object>
+    <object>objects\obj_tree_top</object>
+    <object>objects\obj_cloud</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_splash</room>
