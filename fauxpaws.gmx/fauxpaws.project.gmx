@@ -8,19 +8,28 @@
     <sound>sound\mus_01</sound>
   </sounds>
   <sprites name="sprites">
-    <sprite>sprites\spr_corgi_walking</sprite>
-    <sprite>sprites\spr_corgi_resting</sprite>
-    <sprite>sprites\spr_corgi_farting</sprite>
-    <sprite>sprites\spr_corgi_pooping</sprite>
-    <sprite>sprites\spr_corgi_barking</sprite>
-    <sprite>sprites\spr_corgi_sniffing</sprite>
-    <sprite>sprites\spr_corgi_eating</sprite>
-    <sprite>sprites\spr_poop</sprite>
-    <sprite>sprites\spr_fart_cloud</sprite>
-    <sprite>sprites\spr_hotdog</sprite>
-    <sprite>sprites\spr_icecream</sprite>
-    <sprite>sprites\spr_molyneux_placeholder</sprite>
-    <sprite>sprites\spr_hotdog</sprite>
+    <sprites name="corgi">
+      <sprite>sprites\spr_corgi_peeing</sprite>
+      <sprite>sprites\spr_corgi_eating</sprite>
+      <sprite>sprites\spr_corgi_sniffing</sprite>
+      <sprite>sprites\spr_corgi_barking</sprite>
+      <sprite>sprites\spr_corgi_pooping</sprite>
+      <sprite>sprites\spr_corgi_farting</sprite>
+      <sprite>sprites\spr_corgi_resting</sprite>
+      <sprite>sprites\spr_corgi_walking</sprite>
+    </sprites>
+    <sprites name="pickups">
+      <sprite>sprites\spr_icecream</sprite>
+      <sprite>sprites\spr_hotdog</sprite>
+    </sprites>
+    <sprites name="people">
+      <sprite>sprites\spr_molyneux_placeholder</sprite>
+    </sprites>
+    <sprites name="excreta ">
+      <sprite>sprites\spr_fart_cloud</sprite>
+      <sprite>sprites\spr_pee</sprite>
+      <sprite>sprites\spr_poop</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_placeholder</background>
