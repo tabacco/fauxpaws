@@ -76,8 +76,8 @@
             <string>image_speed = 0;
 icon_position = 0;
 
-y = 75;
-x = (icon_position + 1) * 75;
+y = sprite_height / 2;
+x = (sprite_width / 2) + 20 + (icon_position * sprite_width);
 
 </string>
           </argument>
@@ -153,7 +153,7 @@ x = (icon_position + 1) * 75;
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>x = view_xview[0] + (icon_position + 1) * 75;
+            <string>x = view_xview[0] + (sprite_width / 2) + 20 + (icon_position * sprite_width);
 </string>
           </argument>
         </arguments>
