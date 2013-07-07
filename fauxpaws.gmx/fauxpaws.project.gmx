@@ -20,11 +20,15 @@
     <sprite>sprites\spr_hotdog</sprite>
     <sprite>sprites\spr_icecream</sprite>
     <sprite>sprites\spr_molyneux_placeholder</sprite>
+    <sprite>sprites\spr_hotdog</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_placeholder</background>
   </backgrounds>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\scr_spawnhotdogs.gml</script>
+  </scripts>
   <objects name="objects">
     <object>objects\obj_dog</object>
     <object>objects\obj_molyneux</object>
