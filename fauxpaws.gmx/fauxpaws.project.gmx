@@ -48,6 +48,7 @@
     <object>objects\obj_poop</object>
     <object>objects\obj_hotdog</object>
     <object>objects\obj_icecream</object>
+    <object>objects\obj_pee</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_street</room>
