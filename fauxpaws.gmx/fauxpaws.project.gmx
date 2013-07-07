@@ -57,6 +57,9 @@
     <script>scripts\scr_foodeat.gml</script>
     <script>scripts\scr_foodexcrete.gml</script>
   </scripts>
+  <fonts name="fonts">
+    <font>fonts\font_title</font>
+  </fonts>
   <objects name="objects">
     <object>objects\obj_dog</object>
     <object>objects\obj_molyneux</object>
@@ -65,10 +68,12 @@
     <object>objects\obj_poop</object>
     <object>objects\obj_pee</object>
     <object>objects\obj_comestible</object>
+    <object>objects\obj_title</object>
+    <object>objects\obj_musicmanager</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\room_splash</room>
     <room>rooms\room_street</room>
-    <room>rooms\room_test</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
