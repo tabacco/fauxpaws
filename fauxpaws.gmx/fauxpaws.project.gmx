@@ -7,21 +7,23 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\spr_corgi_walking</sprite>
-    <sprite>sprites\spr_molyneux_placeholder</sprite>
     <sprite>sprites\spr_corgi_resting</sprite>
     <sprite>sprites\spr_corgi_farting</sprite>
+    <sprite>sprites\spr_poop</sprite>
+    <sprite>sprites\spr_fart_cloud</sprite>
+    <sprite>sprites\spr_molyneux_placeholder</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_placeholder</background>
   </backgrounds>
   <paths name="paths"/>
-  <shaders name="shaders"/>
   <objects name="objects">
     <object>objects\obj_dog</object>
     <object>objects\obj_molyneux</object>
     <object>objects\obj_mrmanager</object>
+    <object>objects\obj_fart_cloud</object>
+    <object>objects\obj_poop</object>
   </objects>
-  <timelines name="timelines"/>
   <rooms name="rooms">
     <room>rooms\room_street</room>
   </rooms>
