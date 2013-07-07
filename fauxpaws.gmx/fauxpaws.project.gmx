@@ -9,6 +9,7 @@
     <sprite>sprites\spr_corgi_walking</sprite>
     <sprite>sprites\spr_molyneux_placeholder</sprite>
     <sprite>sprites\spr_corgi_resting</sprite>
+    <sprite>sprites\spr_corgi_farting</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_placeholder</background>
@@ -20,6 +21,7 @@
     <object>objects\obj_molyneux</object>
     <object>objects\obj_mrmanager</object>
   </objects>
+  <timelines name="timelines"/>
   <rooms name="rooms">
     <room>rooms\room_street</room>
   </rooms>
