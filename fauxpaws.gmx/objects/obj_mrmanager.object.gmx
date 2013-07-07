@@ -49,15 +49,15 @@
         <arguments>
           <argument>
             <kind>9</kind>
-            <script>scr_spawnhotdogs</script>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>5</string>
+            <script>scr_spawnfood</script>
           </argument>
           <argument>
             <kind>0</kind>
             <string>10</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>30</string>
           </argument>
           <argument>
             <kind>0</kind>
