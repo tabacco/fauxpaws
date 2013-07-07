@@ -37,6 +37,16 @@
       <sprite>sprites\spr_pee</sprite>
       <sprite>sprites\spr_poop</sprite>
     </sprites>
+    <sprites name="ui">
+      <sprite>sprites\spr_icon_barf</sprite>
+      <sprite>sprites\spr_icon_bark</sprite>
+      <sprite>sprites\spr_icon_pee</sprite>
+      <sprite>sprites\spr_icon_eat</sprite>
+      <sprite>sprites\spr_icon_fart</sprite>
+      <sprite>sprites\spr_icon_hump</sprite>
+      <sprite>sprites\spr_icon_poop</sprite>
+      <sprite>sprites\spr_icon_sniff</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_placeholder</background>
