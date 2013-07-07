@@ -16,6 +16,7 @@
   <objects name="objects">
     <object>objects\obj_dog</object>
     <object>objects\obj_molyneux</object>
+    <object>objects\obj_mrmanager</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_street</room>
