@@ -17,6 +17,8 @@
     <sprite>sprites\spr_corgi_eating</sprite>
     <sprite>sprites\spr_poop</sprite>
     <sprite>sprites\spr_fart_cloud</sprite>
+    <sprite>sprites\spr_hotdog</sprite>
+    <sprite>sprites\spr_icecream</sprite>
     <sprite>sprites\spr_molyneux_placeholder</sprite>
   </sprites>
   <backgrounds name="background">
@@ -29,6 +31,8 @@
     <object>objects\obj_mrmanager</object>
     <object>objects\obj_fart_cloud</object>
     <object>objects\obj_poop</object>
+    <object>objects\obj_hotdog</object>
+    <object>objects\obj_icecream</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_street</room>

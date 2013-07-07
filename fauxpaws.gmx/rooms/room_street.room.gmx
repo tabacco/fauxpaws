@@ -73,6 +73,8 @@
     <instance objName="obj_dog" x="160" y="416" name="inst_78CFC6AB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_molyneux" x="320" y="256" name="inst_6D692D91" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_mrmanager" x="0" y="0" name="inst_37A31639" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_hotdog" x="512" y="448" name="inst_AA57A755" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_icecream" x="352" y="448" name="inst_9CEE72D3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
