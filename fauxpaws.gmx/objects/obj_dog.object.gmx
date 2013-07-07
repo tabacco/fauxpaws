@@ -77,11 +77,11 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>000100000</string>
+            <string>000010000</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>3</string>
+            <string></string>
           </argument>
         </arguments>
       </action>
