@@ -11,6 +11,8 @@
     <sprite>sprites\spr_corgi_walking</sprite>
     <sprite>sprites\spr_corgi_resting</sprite>
     <sprite>sprites\spr_corgi_farting</sprite>
+    <sprite>sprites\spr_corgi_pooping</sprite>
+    <sprite>sprites\spr_corgi_barking</sprite>
     <sprite>sprites\spr_poop</sprite>
     <sprite>sprites\spr_fart_cloud</sprite>
     <sprite>sprites\spr_molyneux_placeholder</sprite>
