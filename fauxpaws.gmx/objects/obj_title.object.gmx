@@ -47,14 +47,6 @@
             <kind>0</kind>
             <string>0</string>
           </argument>
-          <argument>
-            <kind>0</kind>
-            <string>1</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>0</string>
-          </argument>
         </arguments>
       </action>
     </event>
