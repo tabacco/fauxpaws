@@ -26,7 +26,9 @@
           <argument>
             <kind>1</kind>
             <string>{
-    audio_play_sound(mus_01, 100, true);
+    if !audio_is_playing(mus_01) {
+        audio_play_sound(mus_01, 100, true);
+    }
 }
 </string>
           </argument>
