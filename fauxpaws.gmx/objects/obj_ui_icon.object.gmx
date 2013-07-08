@@ -153,8 +153,9 @@ x = (sprite_width / 2) + 20 + (icon_position * sprite_width);
             <kind>1</kind>
             <string>{
     if up &gt; -1 {
+        obj_dog.up = up;
         with(obj_dog) {
-            event_user(up);
+            event_user(obj_dog.up);
         }
     }
 }
@@ -181,8 +182,10 @@ x = (sprite_width / 2) + 20 + (icon_position * sprite_width);
           <argument>
             <kind>1</kind>
             <string>{
+
+    obj_dog.down = down;
     with(obj_dog) {
-        event_user(down);
+        event_user(obj_dog.down);
     }
 }
 </string>
