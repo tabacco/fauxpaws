@@ -152,7 +152,7 @@ x = (sprite_width / 2) + 20 + (icon_position * sprite_width);
           <argument>
             <kind>1</kind>
             <string>{
-    if up &gt; -1 {
+    if (up &gt; -1) {
         obj_dog.up = up;
         with(obj_dog) {
             event_user(obj_dog.up);
@@ -210,7 +210,33 @@ x = (sprite_width / 2) + 20 + (icon_position * sprite_width);
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>x = view_xview[0] + (sprite_width / 2) + 20 + (icon_position * sprite_width);
+            <string>{
+    x = view_xview[0] + (sprite_width / 2) + 20 + (icon_position * sprite_width);
+    
+    if((1 = down) || (8 = down))
+    {
+        if(obj_dog.food &gt; 0)
+        {
+            image_index = 2;
+        }
+        else
+        {
+            image_index = 0;
+        }
+    }
+    
+    if(6 = down)
+    {
+        if(obj_dog.barf &gt; 0)
+        {
+            image_index = 2;
+        }
+        else
+        {
+            image_index = 0;
+        }
+    }
+}
 </string>
           </argument>
         </arguments>
