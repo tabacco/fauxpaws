@@ -33,6 +33,7 @@
       <sprite>sprites\spr_molyneux</sprite>
       <sprite>sprites\spr_people_pedestrian</sprite>
       <sprite>sprites\spr_sweatdroplet</sprite>
+      <sprite>sprites\spr_queen</sprite>
     </sprites>
     <sprites name="excreta ">
       <sprite>sprites\spr_fart_cloud</sprite>
@@ -88,6 +89,7 @@
     <object>objects\obj_cloud</object>
     <object>objects\obj_ediblepoop</object>
     <object>objects\obj_barf</object>
+    <object>objects\obj_queen</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_splash</room>

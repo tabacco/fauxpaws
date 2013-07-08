@@ -193,8 +193,7 @@
           <argument>
             <kind>1</kind>
             <string>{
-    draw_text(100, 100, "Food: " + string(obj_dog.food));
-    draw_text(100, 120, "Barf: " + string(obj_dog.barf));
+    draw_text(100, 100, "Sccore: " + string(score));
 }
 </string>
           </argument>
