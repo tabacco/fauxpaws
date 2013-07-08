@@ -69,11 +69,11 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>10</string>
+            <string>5</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>30</string>
+            <string>10</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -160,14 +160,16 @@
           <argument>
             <kind>1</kind>
             <string>{
-    var treecount = irandom_range(20, 30);
+    var treecount = irandom_range(18, 25);
     for(i = 0; i &lt; treecount; i += 1){
-        instance_create(irandom_range(320, room_width), 250, obj_tree_trunk);
+        treey = irandom_range(240, 280);
+        instance_create(irandom_range(320, room_width), treey, obj_tree_trunk);
     }
     
-    var cloudcount = irandom_range(20, 30);
+    var cloudcount = irandom_range(20, 45);
     for(i = 0; i &lt; cloudcount; i += 1){
-        instance_create(irandom_range(320, room_width), 0, obj_cloud);
+        cloudy = irandom_range(100, 0);
+        instance_create(irandom_range(320, room_width), cloudy, obj_cloud);
     }
 }
 </string>

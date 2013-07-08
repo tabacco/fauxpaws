@@ -60,6 +60,7 @@
   </sprites>
   <backgrounds name="background">
     <background>background\bg_placeholder</background>
+    <background>background\bg_hills</background>
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
