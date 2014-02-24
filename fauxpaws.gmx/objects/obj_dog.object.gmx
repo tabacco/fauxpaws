@@ -1690,19 +1690,19 @@ currentFood = -1;
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
         </arguments>
       </action>
@@ -2126,19 +2126,19 @@ currentFood = -1;
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
         </arguments>
       </action>
@@ -2604,19 +2604,19 @@ currentFood = -1;
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
         </arguments>
       </action>
@@ -3040,19 +3040,19 @@ currentFood = -1;
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
         </arguments>
       </action>
@@ -3472,19 +3472,19 @@ currentFood = -1;
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
         </arguments>
       </action>
@@ -3824,19 +3824,19 @@ currentFood = -1;
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
         </arguments>
       </action>
@@ -4186,19 +4186,19 @@ currentFood = -1;
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
         </arguments>
       </action>
@@ -5127,5 +5127,8 @@ currentFood = -1;
   <PhysicsObjectFriction>0.200000002980232</PhysicsObjectFriction>
   <PhysicsObjectAwake>-1</PhysicsObjectAwake>
   <PhysicsObjectKinematic>0</PhysicsObjectKinematic>
-  <PhysicsShapePoints/>
+  <PhysicsShapePoints>
+    <point>55,45</point>
+    <point>56,56</point>
+  </PhysicsShapePoints>
 </object>
